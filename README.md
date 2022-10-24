@@ -1,4 +1,4 @@
-[![EF SET Certificate](https://user-images.githubusercontent.com/116123805/197409593-26f9df96-e880-45a1-ac84-e6672a838825.jpg)](https://www.efset.org/cert/u5jAdi)
+[![EF SET Certificate](https://user-images.githubusercontent.com/116123805/197507108-511157f2-beb1-4ad8-859d-5a486e562e9d.png)](https://www.efset.org/cert/u5jAdi)
 
 <!--
 **mamontoboi/mamontoboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
