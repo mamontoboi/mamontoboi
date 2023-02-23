@@ -1,4 +1,4 @@
-div {
+p, h1 {
     font-family: 'Britannic Bold';
     text-align: center;
     color: green;
@@ -8,4 +8,6 @@ div {
 a, img{
     height: 60px;
     width: 60px;
+    text-decoration: none;
+    color: green;
 }
