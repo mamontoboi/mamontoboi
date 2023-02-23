@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="styles/styles.css">
 <meta charset="UTF-8">
 <div>
-  <h1>Hi! I'm Bogdan &#128511</h1>
+  <h1>Hi! I'm <a href="https://mamontoboi.dev">Bogdan &#128511</h1>
   <div>
     <img src="assets/python.svg" alt="Python" title="Python">
     <img src="assets/django.svg" alt="Django" title="Django">
