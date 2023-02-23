@@ -1,0 +1,11 @@
+div {
+    font-family: 'Britannic Bold';
+    text-align: center;
+    color: green;
+
+}
+
+a, img{
+    height: 60px;
+    width: 60px;
+}
