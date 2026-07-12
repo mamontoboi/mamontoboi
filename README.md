@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Bogdan &#128511</h1>
 <p align="center">
+    <img src="assets/playwright.svg" alt="Playwright" title="Playwright" style="height: 60px; width: 60px;">
     <img src="assets/robotframework.svg" alt="Robot Framework" title="Robot Framework" style="height: 60px; width: 60px;">
     <img src="assets/python.svg" alt="Python" title="Python" style="height: 60px; width: 60px;">
     <img src="assets/docker.svg" alt="Docker" title="Docker" style="height: 60px; width: 60px;">
@@ -21,7 +22,5 @@
         <img alt="LinkedIn" title="LinkedIn" src="assets/linkedin.svg" style="height: 60px; width: 60px;"></a>
     <a href="https://t.me/Mamontoboi">
         <img alt="Telegram" title="Telegram" src="assets/telegram.svg" style="height: 60px; width: 60px;"></a>
-    <a href="https://www.facebook.com/Mamontoboi">
-        <img alt="Facebook" title="Facebook" src="assets/facebook.svg" style="height: 60px; width: 60px;"></a>
 </p>
 
